@@ -1,0 +1,6 @@
+# Streamlit UI Requirements
+
+streamlit
+pandas
+numpy
+plotly

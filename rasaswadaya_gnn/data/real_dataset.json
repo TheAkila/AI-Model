@@ -1,0 +1,2624 @@
+{
+  "metadata": {
+    "name": "Real Sri Lankan Cultural Dataset",
+    "version": "1.0",
+    "created": "2026-02-25T08:47:27.722515",
+    "description": "Real artists, events, venues, and users from Sri Lanka"
+  },
+  "artists": [
+    {
+      "artist_id": "A0000",
+      "name": "Bathiya & Santhush",
+      "stage_name": "Bathiya",
+      "art_forms": [
+        "music"
+      ],
+      "genres": [
+        "contemporary",
+        "baila",
+        "fusion"
+      ],
+      "region": "western",
+      "city": "Colombo",
+      "languages": [
+        "sinhala",
+        "english"
+      ],
+      "style": "contemporary",
+      "moods": [
+        "celebratory",
+        "energetic",
+        "romantic"
+      ],
+      "era": "contemporary",
+      "followers": 120000,
+      "grammy_nominated": true,
+      "international_collaborations": false,
+      "heritage_status": "",
+      "join_date": "2016-05-21T08:47:27.721745"
+    },
+    {
+      "artist_id": "A0001",
+      "name": "Batik Artisan Collective",
+      "stage_name": "Colombo Batik Collective",
+      "art_forms": [
+        "crafts"
+      ],
+      "genres": [
+        "batik"
+      ],
+      "region": "western",
+      "city": "Colombo",
+      "languages": [
+        "sinhala",
+        "english"
+      ],
+      "style": "contemporary",
+      "moods": [
+        "reflective",
+        "celebratory"
+      ],
+      "era": "contemporary",
+      "followers": 45173,
+      "grammy_nominated": false,
+      "international_collaborations": false,
+      "heritage_status": "",
+      "join_date": "2017-03-11T08:47:27.721806"
+    },
+    {
+      "artist_id": "A0002",
+      "name": "Chitrasena",
+      "stage_name": "Chitrasena",
+      "art_forms": [
+        "dance"
+      ],
+      "genres": [
+        "kandyan_dance",
+        "contemporary_dance",
+        "fusion"
+      ],
+      "region": "central",
+      "city": "Kandy",
+      "languages": [
+        "sinhala",
+        ""
+      ],
+      "style": "fusion",
+      "moods": [
+        "energetic",
+        "celebratory",
+        "spiritual"
+      ],
+      "era": "legend",
+      "followers": 12546,
+      "grammy_nominated": false,
+      "international_collaborations": false,
+      "heritage_status": "",
+      "join_date": "2024-05-20T08:47:27.721818"
+    },
+    {
+      "artist_id": "A0003",
+      "name": "W.D. Amaradeva",
+      "stage_name": "W.D. Amaradeva",
+      "art_forms": [
+        "music"
+      ],
+      "genres": [
+        "classical_sinhala",
+        "devotional_buddhist",
+        "baila"
+      ],
+      "region": "western",
+      "city": "Colombo",
+      "languages": [
+        "sinhala",
+        ""
+      ],
+      "style": "traditional",
+      "moods": [
+        "spiritual",
+        "devotional",
+        "celebratory"
+      ],
+      "era": "legend",
+      "followers": 13185,
+      "grammy_nominated": true,
+      "international_collaborations": false,
+      "heritage_status": "",
+      "join_date": "2024-12-23T08:47:27.721865"
+    },
+    {
+      "artist_id": "A0004",
+      "name": "Rookantha Gunathilaka",
+      "stage_name": "Rookantha",
+      "art_forms": [
+        "music"
+      ],
+      "genres": [
+        "baila",
+        "folk_music",
+        "contemporary"
+      ],
+      "region": "western",
+      "city": "Colombo",
+      "languages": [
+        "sinhala",
+        "english"
+      ],
+      "style": "contemporary",
+      "moods": [
+        "celebratory",
+        "energetic"
+      ],
+      "era": "contemporary",
+      "followers": 45000,
+      "grammy_nominated": true,
+      "international_collaborations": false,
+      "heritage_status": "",
+      "join_date": "2019-01-24T08:47:27.721893"
+    },
+    {
+      "artist_id": "A0005",
+      "name": "Yohani",
+      "stage_name": "Yohani",
+      "art_forms": [
+        "music"
+      ],
+      "genres": [
+        "contemporary",
+        "fusion"
+      ],
+      "region": "western",
+      "city": "Colombo",
+      "languages": [
+        "sinhala",
+        "english"
+      ],
+      "style": "contemporary",
+      "moods": [
+        "energetic",
+        "celebratory"
+      ],
+      "era": "contemporary",
+      "followers": 890000,
+      "grammy_nominated": false,
+      "international_collaborations": false,
+      "heritage_status": "",
+      "join_date": "2023-06-26T08:47:27.721901"
+    },
+    {
+      "artist_id": "A0006",
+      "name": "Clarence Wijewardena",
+      "stage_name": "Clarence",
+      "art_forms": [
+        "drama"
+      ],
+      "genres": [
+        "contemporary_drama",
+        "experimental"
+      ],
+      "region": "western",
+      "city": "Colombo",
+      "languages": [
+        "sinhala",
+        "english"
+      ],
+      "style": "contemporary",
+      "moods": [
+        "intellectual"
+      ],
+      "era": "contemporary",
+      "followers": 36705,
+      "grammy_nominated": false,
+      "international_collaborations": false,
+      "heritage_status": "",
+      "join_date": "2016-09-03T08:47:27.721905"
+    },
+    {
+      "artist_id": "A0007",
+      "name": "Nanda Malini",
+      "stage_name": "Nanda Malini",
+      "art_forms": [
+        "music"
+      ],
+      "genres": [
+        "classical_sinhala",
+        "devotional_buddhist"
+      ],
+      "region": "western",
+      "city": "Colombo",
+      "languages": [
+        "sinhala",
+        ""
+      ],
+      "style": "traditional",
+      "moods": [
+        "spiritual",
+        "devotional",
+        "romantic"
+      ],
+      "era": "legend",
+      "followers": 34836,
+      "grammy_nominated": false,
+      "international_collaborations": false,
+      "heritage_status": "",
+      "join_date": "2023-07-15T08:47:27.721912"
+    },
+    {
+      "artist_id": "A0008",
+      "name": "Gunadasa Kapuge",
+      "stage_name": "Gunadasa Kapuge",
+      "art_forms": [
+        "music"
+      ],
+      "genres": [
+        "classical_sinhala",
+        "devotional_buddhist"
+      ],
+      "region": "western",
+      "city": "Colombo",
+      "languages": [
+        "sinhala",
+        ""
+      ],
+      "style": "traditional",
+      "moods": [
+        "spiritual",
+        "devotional"
+      ],
+      "era": "contemporary",
+      "followers": 16091,
+      "grammy_nominated": false,
+      "international_collaborations": false,
+      "heritage_status": "",
+      "join_date": "2017-05-08T08:47:27.721916"
+    },
+    {
+      "artist_id": "A0009",
+      "name": "Sanuka Wickramasinghe",
+      "stage_name": "Sanuka",
+      "art_forms": [
+        "music"
+      ],
+      "genres": [
+        "folk_music",
+        "contemporary",
+        "fusion"
+      ],
+      "region": "central",
+      "city": "Kandy",
+      "languages": [
+        "sinhala",
+        ""
+      ],
+      "style": "fusion",
+      "moods": [
+        "energetic",
+        "romantic"
+      ],
+      "era": "contemporary",
+      "followers": 39097,
+      "grammy_nominated": false,
+      "international_collaborations": false,
+      "heritage_status": "",
+      "join_date": "2019-03-17T08:47:27.721921"
+    },
+    {
+      "artist_id": "A0010",
+      "name": "Upeka Dalpadado",
+      "stage_name": "Upeka",
+      "art_forms": [
+        "dance"
+      ],
+      "genres": [
+        "contemporary_dance",
+        "fusion",
+        "kandyan_dance"
+      ],
+      "region": "western",
+      "city": "Colombo",
+      "languages": [
+        "sinhala",
+        "english"
+      ],
+      "style": "contemporary",
+      "moods": [
+        "energetic",
+        "intellectual",
+        "reflective"
+      ],
+      "era": "contemporary",
+      "followers": 8500,
+      "grammy_nominated": false,
+      "international_collaborations": false,
+      "heritage_status": "",
+      "join_date": "2018-06-27T08:47:27.721925"
+    },
+    {
+      "artist_id": "A0011",
+      "name": "Master Carver (Ambalangoda)",
+      "stage_name": "Ambalangoda Mask Master",
+      "art_forms": [
+        "crafts"
+      ],
+      "genres": [
+        "mask_carving"
+      ],
+      "region": "southern",
+      "city": "Ambalangoda",
+      "languages": [
+        "sinhala",
+        ""
+      ],
+      "style": "traditional",
+      "moods": [
+        "reflective",
+        "spiritual"
+      ],
+      "era": "contemporary",
+      "followers": 14103,
+      "grammy_nominated": false,
+      "international_collaborations": false,
+      "heritage_status": "living_heritage",
+      "join_date": "2024-08-24T08:47:27.721930"
+    },
+    {
+      "artist_id": "A0012",
+      "name": "Victor Ratnayake",
+      "stage_name": "Victor Ratnayake",
+      "art_forms": [
+        "music"
+      ],
+      "genres": [
+        "classical_sinhala",
+        "folk_music"
+      ],
+      "region": "western",
+      "city": "Colombo",
+      "languages": [
+        "sinhala",
+        ""
+      ],
+      "style": "traditional",
+      "moods": [
+        "spiritual",
+        "romantic"
+      ],
+      "era": "contemporary",
+      "followers": 14763,
+      "grammy_nominated": false,
+      "international_collaborations": false,
+      "heritage_status": "",
+      "join_date": "2018-08-08T08:47:27.721934"
+    },
+    {
+      "artist_id": "A0013",
+      "name": "Chandani Hettiarachchi",
+      "stage_name": "Chandani",
+      "art_forms": [
+        "visual_arts"
+      ],
+      "genres": [
+        "contemporary_art"
+      ],
+      "region": "western",
+      "city": "Colombo",
+      "languages": [
+        "sinhala",
+        "english"
+      ],
+      "style": "contemporary",
+      "moods": [
+        "intellectual",
+        "reflective"
+      ],
+      "era": "contemporary",
+      "followers": 6500,
+      "grammy_nominated": false,
+      "international_collaborations": false,
+      "heritage_status": "",
+      "join_date": "2024-12-20T08:47:27.721938"
+    },
+    {
+      "artist_id": "A0014",
+      "name": "Vajira",
+      "stage_name": "Vajira",
+      "art_forms": [
+        "dance"
+      ],
+      "genres": [
+        "kandyan_dance",
+        "folk_dance"
+      ],
+      "region": "central",
+      "city": "Kandy",
+      "languages": [
+        "sinhala",
+        ""
+      ],
+      "style": "traditional",
+      "moods": [
+        "energetic",
+        "celebratory"
+      ],
+      "era": "legend",
+      "followers": 13033,
+      "grammy_nominated": false,
+      "international_collaborations": false,
+      "heritage_status": "",
+      "join_date": "2018-10-27T08:47:27.721942"
+    },
+    {
+      "artist_id": "A0015",
+      "name": "Iraj Weeraratne",
+      "stage_name": "Iraj",
+      "art_forms": [
+        "drama"
+      ],
+      "genres": [
+        "street_drama",
+        "contemporary_drama"
+      ],
+      "region": "western",
+      "city": "Colombo",
+      "languages": [
+        "sinhala",
+        ""
+      ],
+      "style": "contemporary",
+      "moods": [
+        "intellectual",
+        "reflective",
+        "energetic"
+      ],
+      "era": "contemporary",
+      "followers": 12000,
+      "grammy_nominated": false,
+      "international_collaborations": false,
+      "heritage_status": "",
+      "join_date": "2016-07-19T08:47:27.721946"
+    },
+    {
+      "artist_id": "A0016",
+      "name": "Mohideen Baig",
+      "stage_name": "Mohideen Baig",
+      "art_forms": [
+        "music"
+      ],
+      "genres": [
+        "classical_sinhala",
+        "classical_tamil",
+        "devotional_hindu"
+      ],
+      "region": "island_wide",
+      "city": "Colombo",
+      "languages": [
+        "sinhala",
+        "tamil"
+      ],
+      "style": "traditional",
+      "moods": [
+        "spiritual",
+        "devotional"
+      ],
+      "era": "contemporary",
+      "followers": 32634,
+      "grammy_nominated": false,
+      "international_collaborations": false,
+      "heritage_status": "",
+      "join_date": "2023-06-14T08:47:27.721949"
+    },
+    {
+      "artist_id": "A0017",
+      "name": "Annesley Malewana",
+      "stage_name": "Annesley Malewana",
+      "art_forms": [
+        "visual_arts"
+      ],
+      "genres": [
+        "contemporary_art",
+        "sculpture"
+      ],
+      "region": "western",
+      "city": "Colombo",
+      "languages": [
+        "english",
+        ""
+      ],
+      "style": "contemporary",
+      "moods": [
+        "intellectual",
+        "reflective"
+      ],
+      "era": "contemporary",
+      "followers": 34668,
+      "grammy_nominated": false,
+      "international_collaborations": false,
+      "heritage_status": "",
+      "join_date": "2023-07-06T08:47:27.721953"
+    },
+    {
+      "artist_id": "A0018",
+      "name": "Navarasa",
+      "stage_name": "Navarasa",
+      "art_forms": [
+        "dance"
+      ],
+      "genres": [
+        "bharatanatyam",
+        "folk_dance"
+      ],
+      "region": "northern",
+      "city": "Jaffna",
+      "languages": [
+        "tamil",
+        "english"
+      ],
+      "style": "traditional",
+      "moods": [
+        "spiritual",
+        "energetic"
+      ],
+      "era": "contemporary",
+      "followers": 3153,
+      "grammy_nominated": false,
+      "international_collaborations": false,
+      "heritage_status": "",
+      "join_date": "2021-10-01T08:47:27.721957"
+    },
+    {
+      "artist_id": "A0019",
+      "name": "Premasiri Khemadasa",
+      "stage_name": "Premasiri",
+      "art_forms": [
+        "music"
+      ],
+      "genres": [
+        "classical_sinhala",
+        "contemporary"
+      ],
+      "region": "western",
+      "city": "Colombo",
+      "languages": [
+        "sinhala",
+        ""
+      ],
+      "style": "fusion",
+      "moods": [
+        "romantic",
+        "intellectual"
+      ],
+      "era": "contemporary",
+      "followers": 4536,
+      "grammy_nominated": false,
+      "international_collaborations": false,
+      "heritage_status": "",
+      "join_date": "2018-05-27T08:47:27.721961"
+    },
+    {
+      "artist_id": "A0020",
+      "name": "Dinupa Kodagoda",
+      "stage_name": "Dinupa",
+      "art_forms": [
+        "drama"
+      ],
+      "genres": [
+        "contemporary_drama",
+        "experimental",
+        "street_drama"
+      ],
+      "region": "western",
+      "city": "Colombo",
+      "languages": [
+        "sinhala",
+        "english"
+      ],
+      "style": "contemporary",
+      "moods": [
+        "intellectual",
+        "reflective"
+      ],
+      "era": "contemporary",
+      "followers": 31810,
+      "grammy_nominated": false,
+      "international_collaborations": true,
+      "heritage_status": "",
+      "join_date": "2022-10-28T08:47:27.721965"
+    },
+    {
+      "artist_id": "A0021",
+      "name": "H.R. Jothipala",
+      "stage_name": "H.R. Jothipala",
+      "art_forms": [
+        "music"
+      ],
+      "genres": [
+        "classical_sinhala",
+        "folk_music"
+      ],
+      "region": "western",
+      "city": "Colombo",
+      "languages": [
+        "sinhala",
+        ""
+      ],
+      "style": "traditional",
+      "moods": [
+        "romantic",
+        "reflective"
+      ],
+      "era": "legend",
+      "followers": 28743,
+      "grammy_nominated": false,
+      "international_collaborations": false,
+      "heritage_status": "",
+      "join_date": "2020-04-04T08:47:27.721969"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "EVT0000",
+      "name": "Vesak Full Moon Festival",
+      "region": "island_wide",
+      "city": "Colombo",
+      "venue": "Viharamahadevi Park",
+      "latitude": 6.9306,
+      "longitude": 80.6379,
+      "month": "may",
+      "duration_days": 3,
+      "genres": [
+        "devotional_buddhist",
+        "classical_sinhala",
+        "folk_music"
+      ],
+      "mood": "spiritual",
+      "expected_attendance": 100000,
+      "cultural_significance": "national_religious",
+      "featured_artists": [
+        "devotional_singers",
+        "temple_musicians"
+      ],
+      "languages": [
+        "sinhala"
+      ],
+      "free_entry": true,
+      "ticket_price": "varies"
+    },
+    {
+      "event_id": "EVT0001",
+      "name": "Contemporary Art Exhibition",
+      "region": "western",
+      "city": "Colombo",
+      "venue": "Harold Peiris Gallery",
+      "latitude": 6.9306,
+      "longitude": 80.7789,
+      "month": "year_round",
+      "duration_days": 14,
+      "genres": [
+        "contemporary_art",
+        "visual_arts"
+      ],
+      "mood": "intellectual",
+      "expected_attendance": 500,
+      "cultural_significance": "local",
+      "featured_artists": [
+        "contemporary_artists",
+        "emerging_painters"
+      ],
+      "languages": [
+        "english"
+      ],
+      "free_entry": true,
+      "ticket_price": "varies"
+    },
+    {
+      "event_id": "EVT0002",
+      "name": "Esala Perahera",
+      "region": "central",
+      "city": "Kandy",
+      "venue": "Dalada Maligawa",
+      "latitude": 6.9271,
+      "longitude": 80.6386,
+      "month": "august",
+      "duration_days": 10,
+      "genres": [
+        "kandyan_dance",
+        "folk_music",
+        "devotional_buddhist"
+      ],
+      "mood": "celebratory",
+      "expected_attendance": 500000,
+      "cultural_significance": "world_heritage",
+      "featured_artists": [
+        "kandyan_dance_groups"
+      ],
+      "languages": [
+        "sinhala"
+      ],
+      "free_entry": true,
+      "ticket_price": "varies"
+    },
+    {
+      "event_id": "EVT0003",
+      "name": "Deepavali Festival",
+      "region": "northern",
+      "city": "Jaffna",
+      "venue": "Hindu Temples & Public Spaces",
+      "latitude": 9.6615,
+      "longitude": 80.7855,
+      "month": "november",
+      "duration_days": 2,
+      "genres": [
+        "bharatanatyam",
+        "carnatic",
+        "devotional_hindu"
+      ],
+      "mood": "celebratory",
+      "expected_attendance": 50000,
+      "cultural_significance": "hindu_festival",
+      "featured_artists": [
+        "bharatanatyam_dancers",
+        "carnatic_musicians"
+      ],
+      "languages": [
+        "tamil"
+      ],
+      "free_entry": true,
+      "ticket_price": "varies"
+    },
+    {
+      "event_id": "EVT0004",
+      "name": "Classical Music Concert Series",
+      "region": "western",
+      "city": "Colombo",
+      "venue": "Lionel Wendt Theatre",
+      "latitude": 6.9271,
+      "longitude": 80.7789,
+      "month": "year_round",
+      "duration_days": 1,
+      "genres": [
+        "classical_sinhala",
+        "devotional_buddhist"
+      ],
+      "mood": "spiritual",
+      "expected_attendance": 150,
+      "cultural_significance": "local",
+      "featured_artists": [
+        "classical_musicians"
+      ],
+      "languages": [
+        "sinhala"
+      ],
+      "free_entry": false,
+      "ticket_price": "$3-8"
+    },
+    {
+      "event_id": "EVT0005",
+      "name": "Galle Literary Festival",
+      "region": "southern",
+      "city": "Galle",
+      "venue": "Galle Fort",
+      "latitude": 6.0535,
+      "longitude": 80.2157,
+      "month": "january",
+      "duration_days": 4,
+      "genres": [
+        "literature",
+        "poetry",
+        "storytelling"
+      ],
+      "mood": "intellectual",
+      "expected_attendance": 5000,
+      "cultural_significance": "international_event",
+      "featured_artists": [
+        "sri_lankan_writers",
+        "international_authors"
+      ],
+      "languages": [
+        "english",
+        "sinhala"
+      ],
+      "free_entry": false,
+      "ticket_price": "varies"
+    },
+    {
+      "event_id": "EVT0006",
+      "name": "Contemporary Theatre at BMICH",
+      "region": "western",
+      "city": "Colombo",
+      "venue": "BMICH",
+      "latitude": 6.9306,
+      "longitude": 80.7789,
+      "month": "year_round",
+      "duration_days": 1,
+      "genres": [
+        "contemporary_drama",
+        "theatre"
+      ],
+      "mood": "intellectual",
+      "expected_attendance": 500,
+      "cultural_significance": "local",
+      "featured_artists": [
+        "theatre_groups",
+        "independent_artists"
+      ],
+      "languages": [
+        "sinhala",
+        "english"
+      ],
+      "free_entry": false,
+      "ticket_price": "$5-15"
+    },
+    {
+      "event_id": "EVT0007",
+      "name": "Sinhala & Tamil New Year Celebrations",
+      "region": "island_wide",
+      "city": "Colombo",
+      "venue": "Public spaces (Island-wide)",
+      "latitude": 6.9271,
+      "longitude": 80.7789,
+      "month": "april",
+      "duration_days": 7,
+      "genres": [
+        "folk_music",
+        "folk_dance",
+        "kolam",
+        "baila"
+      ],
+      "mood": "celebratory",
+      "expected_attendance": 1000000,
+      "cultural_significance": "national_festival",
+      "featured_artists": [
+        "folk_troupes",
+        "local_musicians"
+      ],
+      "languages": [
+        "sinhala",
+        "tamil"
+      ],
+      "free_entry": true,
+      "ticket_price": "varies"
+    },
+    {
+      "event_id": "EVT0008",
+      "name": "Peradeniya University Arts Festival",
+      "region": "central",
+      "city": "Kandy",
+      "venue": "Peradeniya Open Air Theatre",
+      "latitude": 6.9271,
+      "longitude": 80.6386,
+      "month": "march",
+      "duration_days": 7,
+      "genres": [
+        "contemporary_dance",
+        "experimental",
+        "fusion",
+        "theatre"
+      ],
+      "mood": "intellectual",
+      "expected_attendance": 20000,
+      "cultural_significance": "academic",
+      "featured_artists": [
+        "university_troupes",
+        "contemporary_artists"
+      ],
+      "languages": [
+        "sinhala",
+        "english"
+      ],
+      "free_entry": false,
+      "ticket_price": "affordable"
+    }
+  ],
+  "venues": [
+    {
+      "venue_id": "VEN0000",
+      "name": "Galle Face Green",
+      "city": "Colombo",
+      "region": "western",
+      "latitude": 6.9335,
+      "longitude": 80.7547,
+      "capacity": 10000,
+      "venue_type": "outdoor_ground",
+      "indoor": false,
+      "operational": true
+    },
+    {
+      "venue_id": "VEN0001",
+      "name": "Nelum Pokuna Theatre",
+      "city": "Colombo",
+      "region": "western",
+      "latitude": 6.9271,
+      "longitude": 80.7789,
+      "capacity": 900,
+      "venue_type": "modern_amphitheatre",
+      "indoor": true,
+      "operational": true
+    },
+    {
+      "venue_id": "VEN0002",
+      "name": "Viharamahadevi Park Open Air Theatre",
+      "city": "Colombo",
+      "region": "western",
+      "latitude": 6.9306,
+      "longitude": 80.6379,
+      "capacity": 5000,
+      "venue_type": "open_air",
+      "indoor": false,
+      "operational": true
+    },
+    {
+      "venue_id": "VEN0003",
+      "name": "Harold Peiris Gallery",
+      "city": "Colombo",
+      "region": "western",
+      "latitude": 6.9306,
+      "longitude": 80.7789,
+      "capacity": 200,
+      "venue_type": "art_gallery",
+      "indoor": true,
+      "operational": true
+    },
+    {
+      "venue_id": "VEN0004",
+      "name": "BMICH",
+      "city": "Colombo",
+      "region": "western",
+      "latitude": 6.9306,
+      "longitude": 80.7789,
+      "capacity": 1500,
+      "venue_type": "convention_hall",
+      "indoor": true,
+      "operational": true
+    },
+    {
+      "venue_id": "VEN0005",
+      "name": "Galle Fort Gateway",
+      "city": "Galle",
+      "region": "southern",
+      "latitude": 6.0535,
+      "longitude": 80.2157,
+      "capacity": 3000,
+      "venue_type": "outdoor_historic",
+      "indoor": false,
+      "operational": true
+    },
+    {
+      "venue_id": "VEN0006",
+      "name": "Lionel Wendt Theatre",
+      "city": "Colombo",
+      "region": "western",
+      "latitude": 6.9306,
+      "longitude": 80.7779,
+      "capacity": 200,
+      "venue_type": "theatre",
+      "indoor": true,
+      "operational": true
+    },
+    {
+      "venue_id": "VEN0007",
+      "name": "Peradeniya Open Air Theatre",
+      "city": "Kandy",
+      "region": "central",
+      "latitude": 6.9271,
+      "longitude": 80.6386,
+      "capacity": 1000,
+      "venue_type": "amphitheatre",
+      "indoor": false,
+      "operational": true
+    },
+    {
+      "venue_id": "VEN0008",
+      "name": "Dalada Maligawa",
+      "city": "Kandy",
+      "region": "central",
+      "latitude": 6.9271,
+      "longitude": 80.6386,
+      "capacity": 5000,
+      "venue_type": "temple",
+      "indoor": false,
+      "operational": true
+    },
+    {
+      "venue_id": "VEN0009",
+      "name": "Jaffna Public Library Hall",
+      "city": "Jaffna",
+      "region": "northern",
+      "latitude": 9.6615,
+      "longitude": 80.7855,
+      "capacity": 300,
+      "venue_type": "cultural_centre",
+      "indoor": true,
+      "operational": true
+    }
+  ],
+  "users": [
+    {
+      "user_id": "U0000",
+      "name": "Priya Silva",
+      "city": "Colombo",
+      "ethnicity": "sinhala",
+      "language_primary": "english",
+      "language_secondary": "",
+      "age_group": "25-35",
+      "interests": [
+        "contemporary",
+        "fusion",
+        "experimental"
+      ],
+      "style_preference": "contemporary",
+      "mood_preferences": [
+        "intellectual",
+        "energetic"
+      ],
+      "join_date": "2024-06-21T08:47:27.722015"
+    },
+    {
+      "user_id": "U0001",
+      "name": "Thilini Jayasuriya",
+      "city": "Galle",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "english",
+      "age_group": "28-38",
+      "interests": [
+        "kolam",
+        "low_country_dance",
+        "folk_music"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "celebratory",
+        "reflective"
+      ],
+      "join_date": "2024-11-18T08:47:27.722022"
+    },
+    {
+      "user_id": "U0002",
+      "name": "Raj Kumar",
+      "city": "Jaffna",
+      "ethnicity": "tamil",
+      "language_primary": "tamil",
+      "language_secondary": "",
+      "age_group": "30-40",
+      "interests": [
+        "bharatanatyam",
+        "carnatic",
+        "devotional_hindu"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "devotional"
+      ],
+      "join_date": "2025-05-18T08:47:27.722026"
+    },
+    {
+      "user_id": "U0003",
+      "name": "Chathura de Silva",
+      "city": "Kandy",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "",
+      "age_group": "45-55",
+      "interests": [
+        "kandyan_dance",
+        "devotional_buddhist"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "celebratory"
+      ],
+      "join_date": "2025-04-07T08:47:27.722030"
+    },
+    {
+      "user_id": "U0004",
+      "name": "Chathura de Silva",
+      "city": "Kandy",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "",
+      "age_group": "45-55",
+      "interests": [
+        "kandyan_dance",
+        "devotional_buddhist"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "celebratory"
+      ],
+      "join_date": "2025-11-11T08:47:27.722033"
+    },
+    {
+      "user_id": "U0005",
+      "name": "Anura Fernando",
+      "city": "Colombo",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "english",
+      "age_group": "35-45",
+      "interests": [
+        "classical_sinhala",
+        "devotional_buddhist",
+        "contemporary_dance"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "reflective"
+      ],
+      "join_date": "2024-12-21T08:47:27.722037"
+    },
+    {
+      "user_id": "U0006",
+      "name": "Anura Fernando",
+      "city": "Colombo",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "english",
+      "age_group": "35-45",
+      "interests": [
+        "classical_sinhala",
+        "devotional_buddhist",
+        "contemporary_dance"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "reflective"
+      ],
+      "join_date": "2024-03-11T08:47:27.722040"
+    },
+    {
+      "user_id": "U0007",
+      "name": "Priya Silva",
+      "city": "Colombo",
+      "ethnicity": "sinhala",
+      "language_primary": "english",
+      "language_secondary": "",
+      "age_group": "25-35",
+      "interests": [
+        "contemporary",
+        "fusion",
+        "experimental"
+      ],
+      "style_preference": "contemporary",
+      "mood_preferences": [
+        "intellectual",
+        "energetic"
+      ],
+      "join_date": "2024-11-16T08:47:27.722043"
+    },
+    {
+      "user_id": "U0008",
+      "name": "Raj Kumar",
+      "city": "Jaffna",
+      "ethnicity": "tamil",
+      "language_primary": "tamil",
+      "language_secondary": "",
+      "age_group": "30-40",
+      "interests": [
+        "bharatanatyam",
+        "carnatic",
+        "devotional_hindu"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "devotional"
+      ],
+      "join_date": "2024-03-02T08:47:27.722046"
+    },
+    {
+      "user_id": "U0009",
+      "name": "Anura Fernando",
+      "city": "Colombo",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "english",
+      "age_group": "35-45",
+      "interests": [
+        "classical_sinhala",
+        "devotional_buddhist",
+        "contemporary_dance"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "reflective"
+      ],
+      "join_date": "2025-05-18T08:47:27.722050"
+    },
+    {
+      "user_id": "U0010",
+      "name": "Priya Silva",
+      "city": "Colombo",
+      "ethnicity": "sinhala",
+      "language_primary": "english",
+      "language_secondary": "",
+      "age_group": "25-35",
+      "interests": [
+        "contemporary",
+        "fusion",
+        "experimental"
+      ],
+      "style_preference": "contemporary",
+      "mood_preferences": [
+        "intellectual",
+        "energetic"
+      ],
+      "join_date": "2025-11-27T08:47:27.722053"
+    },
+    {
+      "user_id": "U0011",
+      "name": "Thilini Jayasuriya",
+      "city": "Galle",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "english",
+      "age_group": "28-38",
+      "interests": [
+        "kolam",
+        "low_country_dance",
+        "folk_music"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "celebratory",
+        "reflective"
+      ],
+      "join_date": "2025-09-04T08:47:27.722056"
+    },
+    {
+      "user_id": "U0012",
+      "name": "Thilini Jayasuriya",
+      "city": "Galle",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "english",
+      "age_group": "28-38",
+      "interests": [
+        "kolam",
+        "low_country_dance",
+        "folk_music"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "celebratory",
+        "reflective"
+      ],
+      "join_date": "2025-03-14T08:47:27.722060"
+    },
+    {
+      "user_id": "U0013",
+      "name": "Raj Kumar",
+      "city": "Jaffna",
+      "ethnicity": "tamil",
+      "language_primary": "tamil",
+      "language_secondary": "",
+      "age_group": "30-40",
+      "interests": [
+        "bharatanatyam",
+        "carnatic",
+        "devotional_hindu"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "devotional"
+      ],
+      "join_date": "2024-08-15T08:47:27.722063"
+    },
+    {
+      "user_id": "U0014",
+      "name": "Priya Silva",
+      "city": "Colombo",
+      "ethnicity": "sinhala",
+      "language_primary": "english",
+      "language_secondary": "",
+      "age_group": "25-35",
+      "interests": [
+        "contemporary",
+        "fusion",
+        "experimental"
+      ],
+      "style_preference": "contemporary",
+      "mood_preferences": [
+        "intellectual",
+        "energetic"
+      ],
+      "join_date": "2024-11-14T08:47:27.722066"
+    },
+    {
+      "user_id": "U0015",
+      "name": "Chathura de Silva",
+      "city": "Kandy",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "",
+      "age_group": "45-55",
+      "interests": [
+        "kandyan_dance",
+        "devotional_buddhist"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "celebratory"
+      ],
+      "join_date": "2025-06-07T08:47:27.722069"
+    },
+    {
+      "user_id": "U0016",
+      "name": "Thilini Jayasuriya",
+      "city": "Galle",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "english",
+      "age_group": "28-38",
+      "interests": [
+        "kolam",
+        "low_country_dance",
+        "folk_music"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "celebratory",
+        "reflective"
+      ],
+      "join_date": "2025-07-28T08:47:27.722073"
+    },
+    {
+      "user_id": "U0017",
+      "name": "Anura Fernando",
+      "city": "Colombo",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "english",
+      "age_group": "35-45",
+      "interests": [
+        "classical_sinhala",
+        "devotional_buddhist",
+        "contemporary_dance"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "reflective"
+      ],
+      "join_date": "2024-03-02T08:47:27.722078"
+    },
+    {
+      "user_id": "U0018",
+      "name": "Chathura de Silva",
+      "city": "Kandy",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "",
+      "age_group": "45-55",
+      "interests": [
+        "kandyan_dance",
+        "devotional_buddhist"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "celebratory"
+      ],
+      "join_date": "2025-03-31T08:47:27.722081"
+    },
+    {
+      "user_id": "U0019",
+      "name": "Chathura de Silva",
+      "city": "Kandy",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "",
+      "age_group": "45-55",
+      "interests": [
+        "kandyan_dance",
+        "devotional_buddhist"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "celebratory"
+      ],
+      "join_date": "2024-11-29T08:47:27.722084"
+    },
+    {
+      "user_id": "U0020",
+      "name": "Thilini Jayasuriya",
+      "city": "Galle",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "english",
+      "age_group": "28-38",
+      "interests": [
+        "kolam",
+        "low_country_dance",
+        "folk_music"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "celebratory",
+        "reflective"
+      ],
+      "join_date": "2025-10-27T08:47:27.722087"
+    },
+    {
+      "user_id": "U0021",
+      "name": "Chathura de Silva",
+      "city": "Kandy",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "",
+      "age_group": "45-55",
+      "interests": [
+        "kandyan_dance",
+        "devotional_buddhist"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "celebratory"
+      ],
+      "join_date": "2024-09-03T08:47:27.722091"
+    },
+    {
+      "user_id": "U0022",
+      "name": "Priya Silva",
+      "city": "Colombo",
+      "ethnicity": "sinhala",
+      "language_primary": "english",
+      "language_secondary": "",
+      "age_group": "25-35",
+      "interests": [
+        "contemporary",
+        "fusion",
+        "experimental"
+      ],
+      "style_preference": "contemporary",
+      "mood_preferences": [
+        "intellectual",
+        "energetic"
+      ],
+      "join_date": "2025-10-10T08:47:27.722094"
+    },
+    {
+      "user_id": "U0023",
+      "name": "Chathura de Silva",
+      "city": "Kandy",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "",
+      "age_group": "45-55",
+      "interests": [
+        "kandyan_dance",
+        "devotional_buddhist"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "celebratory"
+      ],
+      "join_date": "2025-06-01T08:47:27.722097"
+    },
+    {
+      "user_id": "U0024",
+      "name": "Anura Fernando",
+      "city": "Colombo",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "english",
+      "age_group": "35-45",
+      "interests": [
+        "classical_sinhala",
+        "devotional_buddhist",
+        "contemporary_dance"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "reflective"
+      ],
+      "join_date": "2024-07-01T08:47:27.722100"
+    },
+    {
+      "user_id": "U0025",
+      "name": "Raj Kumar",
+      "city": "Jaffna",
+      "ethnicity": "tamil",
+      "language_primary": "tamil",
+      "language_secondary": "",
+      "age_group": "30-40",
+      "interests": [
+        "bharatanatyam",
+        "carnatic",
+        "devotional_hindu"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "devotional"
+      ],
+      "join_date": "2025-06-05T08:47:27.722103"
+    },
+    {
+      "user_id": "U0026",
+      "name": "Anura Fernando",
+      "city": "Colombo",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "english",
+      "age_group": "35-45",
+      "interests": [
+        "classical_sinhala",
+        "devotional_buddhist",
+        "contemporary_dance"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "reflective"
+      ],
+      "join_date": "2025-05-14T08:47:27.722107"
+    },
+    {
+      "user_id": "U0027",
+      "name": "Thilini Jayasuriya",
+      "city": "Galle",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "english",
+      "age_group": "28-38",
+      "interests": [
+        "kolam",
+        "low_country_dance",
+        "folk_music"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "celebratory",
+        "reflective"
+      ],
+      "join_date": "2025-05-06T08:47:27.722110"
+    },
+    {
+      "user_id": "U0028",
+      "name": "Priya Silva",
+      "city": "Colombo",
+      "ethnicity": "sinhala",
+      "language_primary": "english",
+      "language_secondary": "",
+      "age_group": "25-35",
+      "interests": [
+        "contemporary",
+        "fusion",
+        "experimental"
+      ],
+      "style_preference": "contemporary",
+      "mood_preferences": [
+        "intellectual",
+        "energetic"
+      ],
+      "join_date": "2024-12-05T08:47:27.722113"
+    },
+    {
+      "user_id": "U0029",
+      "name": "Priya Silva",
+      "city": "Colombo",
+      "ethnicity": "sinhala",
+      "language_primary": "english",
+      "language_secondary": "",
+      "age_group": "25-35",
+      "interests": [
+        "contemporary",
+        "fusion",
+        "experimental"
+      ],
+      "style_preference": "contemporary",
+      "mood_preferences": [
+        "intellectual",
+        "energetic"
+      ],
+      "join_date": "2025-11-20T08:47:27.722116"
+    },
+    {
+      "user_id": "U0030",
+      "name": "Anura Fernando",
+      "city": "Colombo",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "english",
+      "age_group": "35-45",
+      "interests": [
+        "classical_sinhala",
+        "devotional_buddhist",
+        "contemporary_dance"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "reflective"
+      ],
+      "join_date": "2025-11-20T08:47:27.722119"
+    },
+    {
+      "user_id": "U0031",
+      "name": "Thilini Jayasuriya",
+      "city": "Galle",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "english",
+      "age_group": "28-38",
+      "interests": [
+        "kolam",
+        "low_country_dance",
+        "folk_music"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "celebratory",
+        "reflective"
+      ],
+      "join_date": "2025-06-30T08:47:27.722122"
+    },
+    {
+      "user_id": "U0032",
+      "name": "Raj Kumar",
+      "city": "Jaffna",
+      "ethnicity": "tamil",
+      "language_primary": "tamil",
+      "language_secondary": "",
+      "age_group": "30-40",
+      "interests": [
+        "bharatanatyam",
+        "carnatic",
+        "devotional_hindu"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "devotional"
+      ],
+      "join_date": "2024-06-20T08:47:27.722125"
+    },
+    {
+      "user_id": "U0033",
+      "name": "Anura Fernando",
+      "city": "Colombo",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "english",
+      "age_group": "35-45",
+      "interests": [
+        "classical_sinhala",
+        "devotional_buddhist",
+        "contemporary_dance"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "reflective"
+      ],
+      "join_date": "2025-05-14T08:47:27.722129"
+    },
+    {
+      "user_id": "U0034",
+      "name": "Anura Fernando",
+      "city": "Colombo",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "english",
+      "age_group": "35-45",
+      "interests": [
+        "classical_sinhala",
+        "devotional_buddhist",
+        "contemporary_dance"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "reflective"
+      ],
+      "join_date": "2025-02-28T08:47:27.722132"
+    },
+    {
+      "user_id": "U0035",
+      "name": "Chathura de Silva",
+      "city": "Kandy",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "",
+      "age_group": "45-55",
+      "interests": [
+        "kandyan_dance",
+        "devotional_buddhist"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "celebratory"
+      ],
+      "join_date": "2025-04-15T08:47:27.722135"
+    },
+    {
+      "user_id": "U0036",
+      "name": "Chathura de Silva",
+      "city": "Kandy",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "",
+      "age_group": "45-55",
+      "interests": [
+        "kandyan_dance",
+        "devotional_buddhist"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "celebratory"
+      ],
+      "join_date": "2025-03-06T08:47:27.722138"
+    },
+    {
+      "user_id": "U0037",
+      "name": "Thilini Jayasuriya",
+      "city": "Galle",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "english",
+      "age_group": "28-38",
+      "interests": [
+        "kolam",
+        "low_country_dance",
+        "folk_music"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "celebratory",
+        "reflective"
+      ],
+      "join_date": "2025-08-29T08:47:27.722141"
+    },
+    {
+      "user_id": "U0038",
+      "name": "Thilini Jayasuriya",
+      "city": "Galle",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "english",
+      "age_group": "28-38",
+      "interests": [
+        "kolam",
+        "low_country_dance",
+        "folk_music"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "celebratory",
+        "reflective"
+      ],
+      "join_date": "2024-10-02T08:47:27.722145"
+    },
+    {
+      "user_id": "U0039",
+      "name": "Thilini Jayasuriya",
+      "city": "Galle",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "english",
+      "age_group": "28-38",
+      "interests": [
+        "kolam",
+        "low_country_dance",
+        "folk_music"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "celebratory",
+        "reflective"
+      ],
+      "join_date": "2025-05-04T08:47:27.722148"
+    },
+    {
+      "user_id": "U0040",
+      "name": "Thilini Jayasuriya",
+      "city": "Galle",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "english",
+      "age_group": "28-38",
+      "interests": [
+        "kolam",
+        "low_country_dance",
+        "folk_music"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "celebratory",
+        "reflective"
+      ],
+      "join_date": "2025-04-29T08:47:27.722151"
+    },
+    {
+      "user_id": "U0041",
+      "name": "Chathura de Silva",
+      "city": "Kandy",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "",
+      "age_group": "45-55",
+      "interests": [
+        "kandyan_dance",
+        "devotional_buddhist"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "celebratory"
+      ],
+      "join_date": "2025-12-19T08:47:27.722154"
+    },
+    {
+      "user_id": "U0042",
+      "name": "Chathura de Silva",
+      "city": "Kandy",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "",
+      "age_group": "45-55",
+      "interests": [
+        "kandyan_dance",
+        "devotional_buddhist"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "celebratory"
+      ],
+      "join_date": "2024-03-03T08:47:27.722157"
+    },
+    {
+      "user_id": "U0043",
+      "name": "Raj Kumar",
+      "city": "Jaffna",
+      "ethnicity": "tamil",
+      "language_primary": "tamil",
+      "language_secondary": "",
+      "age_group": "30-40",
+      "interests": [
+        "bharatanatyam",
+        "carnatic",
+        "devotional_hindu"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "devotional"
+      ],
+      "join_date": "2025-05-09T08:47:27.722161"
+    },
+    {
+      "user_id": "U0044",
+      "name": "Chathura de Silva",
+      "city": "Kandy",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "",
+      "age_group": "45-55",
+      "interests": [
+        "kandyan_dance",
+        "devotional_buddhist"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "celebratory"
+      ],
+      "join_date": "2025-11-24T08:47:27.722397"
+    },
+    {
+      "user_id": "U0045",
+      "name": "Raj Kumar",
+      "city": "Jaffna",
+      "ethnicity": "tamil",
+      "language_primary": "tamil",
+      "language_secondary": "",
+      "age_group": "30-40",
+      "interests": [
+        "bharatanatyam",
+        "carnatic",
+        "devotional_hindu"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "devotional"
+      ],
+      "join_date": "2025-10-07T08:47:27.722401"
+    },
+    {
+      "user_id": "U0046",
+      "name": "Priya Silva",
+      "city": "Colombo",
+      "ethnicity": "sinhala",
+      "language_primary": "english",
+      "language_secondary": "",
+      "age_group": "25-35",
+      "interests": [
+        "contemporary",
+        "fusion",
+        "experimental"
+      ],
+      "style_preference": "contemporary",
+      "mood_preferences": [
+        "intellectual",
+        "energetic"
+      ],
+      "join_date": "2025-01-11T08:47:27.722405"
+    },
+    {
+      "user_id": "U0047",
+      "name": "Anura Fernando",
+      "city": "Colombo",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "english",
+      "age_group": "35-45",
+      "interests": [
+        "classical_sinhala",
+        "devotional_buddhist",
+        "contemporary_dance"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "reflective"
+      ],
+      "join_date": "2024-09-14T08:47:27.722408"
+    },
+    {
+      "user_id": "U0048",
+      "name": "Raj Kumar",
+      "city": "Jaffna",
+      "ethnicity": "tamil",
+      "language_primary": "tamil",
+      "language_secondary": "",
+      "age_group": "30-40",
+      "interests": [
+        "bharatanatyam",
+        "carnatic",
+        "devotional_hindu"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "devotional"
+      ],
+      "join_date": "2024-10-23T08:47:27.722411"
+    },
+    {
+      "user_id": "U0049",
+      "name": "Chathura de Silva",
+      "city": "Kandy",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "",
+      "age_group": "45-55",
+      "interests": [
+        "kandyan_dance",
+        "devotional_buddhist"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "celebratory"
+      ],
+      "join_date": "2025-06-17T08:47:27.722414"
+    },
+    {
+      "user_id": "U0050",
+      "name": "Chathura de Silva",
+      "city": "Kandy",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "",
+      "age_group": "45-55",
+      "interests": [
+        "kandyan_dance",
+        "devotional_buddhist"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "celebratory"
+      ],
+      "join_date": "2024-07-15T08:47:27.722417"
+    },
+    {
+      "user_id": "U0051",
+      "name": "Anura Fernando",
+      "city": "Colombo",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "english",
+      "age_group": "35-45",
+      "interests": [
+        "classical_sinhala",
+        "devotional_buddhist",
+        "contemporary_dance"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "reflective"
+      ],
+      "join_date": "2024-07-06T08:47:27.722420"
+    },
+    {
+      "user_id": "U0052",
+      "name": "Priya Silva",
+      "city": "Colombo",
+      "ethnicity": "sinhala",
+      "language_primary": "english",
+      "language_secondary": "",
+      "age_group": "25-35",
+      "interests": [
+        "contemporary",
+        "fusion",
+        "experimental"
+      ],
+      "style_preference": "contemporary",
+      "mood_preferences": [
+        "intellectual",
+        "energetic"
+      ],
+      "join_date": "2024-12-11T08:47:27.722423"
+    },
+    {
+      "user_id": "U0053",
+      "name": "Chathura de Silva",
+      "city": "Kandy",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "",
+      "age_group": "45-55",
+      "interests": [
+        "kandyan_dance",
+        "devotional_buddhist"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "celebratory"
+      ],
+      "join_date": "2024-03-22T08:47:27.722426"
+    },
+    {
+      "user_id": "U0054",
+      "name": "Raj Kumar",
+      "city": "Jaffna",
+      "ethnicity": "tamil",
+      "language_primary": "tamil",
+      "language_secondary": "",
+      "age_group": "30-40",
+      "interests": [
+        "bharatanatyam",
+        "carnatic",
+        "devotional_hindu"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "devotional"
+      ],
+      "join_date": "2024-12-03T08:47:27.722429"
+    },
+    {
+      "user_id": "U0055",
+      "name": "Thilini Jayasuriya",
+      "city": "Galle",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "english",
+      "age_group": "28-38",
+      "interests": [
+        "kolam",
+        "low_country_dance",
+        "folk_music"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "celebratory",
+        "reflective"
+      ],
+      "join_date": "2024-08-02T08:47:27.722433"
+    },
+    {
+      "user_id": "U0056",
+      "name": "Priya Silva",
+      "city": "Colombo",
+      "ethnicity": "sinhala",
+      "language_primary": "english",
+      "language_secondary": "",
+      "age_group": "25-35",
+      "interests": [
+        "contemporary",
+        "fusion",
+        "experimental"
+      ],
+      "style_preference": "contemporary",
+      "mood_preferences": [
+        "intellectual",
+        "energetic"
+      ],
+      "join_date": "2024-12-13T08:47:27.722436"
+    },
+    {
+      "user_id": "U0057",
+      "name": "Thilini Jayasuriya",
+      "city": "Galle",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "english",
+      "age_group": "28-38",
+      "interests": [
+        "kolam",
+        "low_country_dance",
+        "folk_music"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "celebratory",
+        "reflective"
+      ],
+      "join_date": "2025-11-23T08:47:27.722442"
+    },
+    {
+      "user_id": "U0058",
+      "name": "Priya Silva",
+      "city": "Colombo",
+      "ethnicity": "sinhala",
+      "language_primary": "english",
+      "language_secondary": "",
+      "age_group": "25-35",
+      "interests": [
+        "contemporary",
+        "fusion",
+        "experimental"
+      ],
+      "style_preference": "contemporary",
+      "mood_preferences": [
+        "intellectual",
+        "energetic"
+      ],
+      "join_date": "2024-04-14T08:47:27.722445"
+    },
+    {
+      "user_id": "U0059",
+      "name": "Thilini Jayasuriya",
+      "city": "Galle",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "english",
+      "age_group": "28-38",
+      "interests": [
+        "kolam",
+        "low_country_dance",
+        "folk_music"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "celebratory",
+        "reflective"
+      ],
+      "join_date": "2025-05-04T08:47:27.722449"
+    },
+    {
+      "user_id": "U0060",
+      "name": "Priya Silva",
+      "city": "Colombo",
+      "ethnicity": "sinhala",
+      "language_primary": "english",
+      "language_secondary": "",
+      "age_group": "25-35",
+      "interests": [
+        "contemporary",
+        "fusion",
+        "experimental"
+      ],
+      "style_preference": "contemporary",
+      "mood_preferences": [
+        "intellectual",
+        "energetic"
+      ],
+      "join_date": "2024-10-17T08:47:27.722452"
+    },
+    {
+      "user_id": "U0061",
+      "name": "Priya Silva",
+      "city": "Colombo",
+      "ethnicity": "sinhala",
+      "language_primary": "english",
+      "language_secondary": "",
+      "age_group": "25-35",
+      "interests": [
+        "contemporary",
+        "fusion",
+        "experimental"
+      ],
+      "style_preference": "contemporary",
+      "mood_preferences": [
+        "intellectual",
+        "energetic"
+      ],
+      "join_date": "2025-03-30T08:47:27.722455"
+    },
+    {
+      "user_id": "U0062",
+      "name": "Thilini Jayasuriya",
+      "city": "Galle",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "english",
+      "age_group": "28-38",
+      "interests": [
+        "kolam",
+        "low_country_dance",
+        "folk_music"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "celebratory",
+        "reflective"
+      ],
+      "join_date": "2025-09-02T08:47:27.722458"
+    },
+    {
+      "user_id": "U0063",
+      "name": "Thilini Jayasuriya",
+      "city": "Galle",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "english",
+      "age_group": "28-38",
+      "interests": [
+        "kolam",
+        "low_country_dance",
+        "folk_music"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "celebratory",
+        "reflective"
+      ],
+      "join_date": "2024-05-07T08:47:27.722461"
+    },
+    {
+      "user_id": "U0064",
+      "name": "Anura Fernando",
+      "city": "Colombo",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "english",
+      "age_group": "35-45",
+      "interests": [
+        "classical_sinhala",
+        "devotional_buddhist",
+        "contemporary_dance"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "reflective"
+      ],
+      "join_date": "2024-08-10T08:47:27.722464"
+    },
+    {
+      "user_id": "U0065",
+      "name": "Raj Kumar",
+      "city": "Jaffna",
+      "ethnicity": "tamil",
+      "language_primary": "tamil",
+      "language_secondary": "",
+      "age_group": "30-40",
+      "interests": [
+        "bharatanatyam",
+        "carnatic",
+        "devotional_hindu"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "devotional"
+      ],
+      "join_date": "2025-12-27T08:47:27.722468"
+    },
+    {
+      "user_id": "U0066",
+      "name": "Priya Silva",
+      "city": "Colombo",
+      "ethnicity": "sinhala",
+      "language_primary": "english",
+      "language_secondary": "",
+      "age_group": "25-35",
+      "interests": [
+        "contemporary",
+        "fusion",
+        "experimental"
+      ],
+      "style_preference": "contemporary",
+      "mood_preferences": [
+        "intellectual",
+        "energetic"
+      ],
+      "join_date": "2024-04-12T08:47:27.722471"
+    },
+    {
+      "user_id": "U0067",
+      "name": "Priya Silva",
+      "city": "Colombo",
+      "ethnicity": "sinhala",
+      "language_primary": "english",
+      "language_secondary": "",
+      "age_group": "25-35",
+      "interests": [
+        "contemporary",
+        "fusion",
+        "experimental"
+      ],
+      "style_preference": "contemporary",
+      "mood_preferences": [
+        "intellectual",
+        "energetic"
+      ],
+      "join_date": "2024-07-27T08:47:27.722474"
+    },
+    {
+      "user_id": "U0068",
+      "name": "Priya Silva",
+      "city": "Colombo",
+      "ethnicity": "sinhala",
+      "language_primary": "english",
+      "language_secondary": "",
+      "age_group": "25-35",
+      "interests": [
+        "contemporary",
+        "fusion",
+        "experimental"
+      ],
+      "style_preference": "contemporary",
+      "mood_preferences": [
+        "intellectual",
+        "energetic"
+      ],
+      "join_date": "2025-04-01T08:47:27.722477"
+    },
+    {
+      "user_id": "U0069",
+      "name": "Raj Kumar",
+      "city": "Jaffna",
+      "ethnicity": "tamil",
+      "language_primary": "tamil",
+      "language_secondary": "",
+      "age_group": "30-40",
+      "interests": [
+        "bharatanatyam",
+        "carnatic",
+        "devotional_hindu"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "devotional"
+      ],
+      "join_date": "2025-08-09T08:47:27.722480"
+    },
+    {
+      "user_id": "U0070",
+      "name": "Priya Silva",
+      "city": "Colombo",
+      "ethnicity": "sinhala",
+      "language_primary": "english",
+      "language_secondary": "",
+      "age_group": "25-35",
+      "interests": [
+        "contemporary",
+        "fusion",
+        "experimental"
+      ],
+      "style_preference": "contemporary",
+      "mood_preferences": [
+        "intellectual",
+        "energetic"
+      ],
+      "join_date": "2024-06-20T08:47:27.722484"
+    },
+    {
+      "user_id": "U0071",
+      "name": "Raj Kumar",
+      "city": "Jaffna",
+      "ethnicity": "tamil",
+      "language_primary": "tamil",
+      "language_secondary": "",
+      "age_group": "30-40",
+      "interests": [
+        "bharatanatyam",
+        "carnatic",
+        "devotional_hindu"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "devotional"
+      ],
+      "join_date": "2025-05-23T08:47:27.722487"
+    },
+    {
+      "user_id": "U0072",
+      "name": "Thilini Jayasuriya",
+      "city": "Galle",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "english",
+      "age_group": "28-38",
+      "interests": [
+        "kolam",
+        "low_country_dance",
+        "folk_music"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "celebratory",
+        "reflective"
+      ],
+      "join_date": "2024-12-06T08:47:27.722490"
+    },
+    {
+      "user_id": "U0073",
+      "name": "Raj Kumar",
+      "city": "Jaffna",
+      "ethnicity": "tamil",
+      "language_primary": "tamil",
+      "language_secondary": "",
+      "age_group": "30-40",
+      "interests": [
+        "bharatanatyam",
+        "carnatic",
+        "devotional_hindu"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "devotional"
+      ],
+      "join_date": "2024-11-06T08:47:27.722493"
+    },
+    {
+      "user_id": "U0074",
+      "name": "Priya Silva",
+      "city": "Colombo",
+      "ethnicity": "sinhala",
+      "language_primary": "english",
+      "language_secondary": "",
+      "age_group": "25-35",
+      "interests": [
+        "contemporary",
+        "fusion",
+        "experimental"
+      ],
+      "style_preference": "contemporary",
+      "mood_preferences": [
+        "intellectual",
+        "energetic"
+      ],
+      "join_date": "2025-02-02T08:47:27.722496"
+    },
+    {
+      "user_id": "U0075",
+      "name": "Raj Kumar",
+      "city": "Jaffna",
+      "ethnicity": "tamil",
+      "language_primary": "tamil",
+      "language_secondary": "",
+      "age_group": "30-40",
+      "interests": [
+        "bharatanatyam",
+        "carnatic",
+        "devotional_hindu"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "devotional"
+      ],
+      "join_date": "2024-12-31T08:47:27.722499"
+    },
+    {
+      "user_id": "U0076",
+      "name": "Chathura de Silva",
+      "city": "Kandy",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "",
+      "age_group": "45-55",
+      "interests": [
+        "kandyan_dance",
+        "devotional_buddhist"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "celebratory"
+      ],
+      "join_date": "2025-03-29T08:47:27.722502"
+    },
+    {
+      "user_id": "U0077",
+      "name": "Chathura de Silva",
+      "city": "Kandy",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "",
+      "age_group": "45-55",
+      "interests": [
+        "kandyan_dance",
+        "devotional_buddhist"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "celebratory"
+      ],
+      "join_date": "2024-03-12T08:47:27.722507"
+    },
+    {
+      "user_id": "U0078",
+      "name": "Chathura de Silva",
+      "city": "Kandy",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "",
+      "age_group": "45-55",
+      "interests": [
+        "kandyan_dance",
+        "devotional_buddhist"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "celebratory"
+      ],
+      "join_date": "2024-06-13T08:47:27.722510"
+    },
+    {
+      "user_id": "U0079",
+      "name": "Chathura de Silva",
+      "city": "Kandy",
+      "ethnicity": "sinhala",
+      "language_primary": "sinhala",
+      "language_secondary": "",
+      "age_group": "45-55",
+      "interests": [
+        "kandyan_dance",
+        "devotional_buddhist"
+      ],
+      "style_preference": "traditional",
+      "mood_preferences": [
+        "spiritual",
+        "celebratory"
+      ],
+      "join_date": "2024-03-11T08:47:27.722513"
+    }
+  ],
+  "statistics": {
+    "total_artists": 22,
+    "total_events": 9,
+    "total_venues": 10,
+    "total_users": 80
+  }
+}

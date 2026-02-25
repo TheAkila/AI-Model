@@ -1,0 +1,81 @@
+event_id,artist_ids,name,city,date,time,venue,ticket_price,capacity
+E0000,"['A0000', 'A0001']",Concert of W.D. Amaradeva,colombo,2026-01-01,18:00,Venue_0,500,100
+E0001,['A0001'],Concert of Nanda Malini,galle,2026-02-02,19:00,Venue_1,501,110
+E0002,"['A0002', 'A0027']",Concert of Victor Ratnayake,kandy,2026-03-03,20:00,Venue_2,502,120
+E0003,"['A0003', 'A0002']",Concert of Yohani,jaffna,2026-04-04,21:00,Venue_3,503,130
+E0004,['A0004'],Concert of Bathiya & Santhush,matara,2026-05-05,22:00,Venue_4,504,140
+E0005,"['A0005', 'A0025']",Concert of Rookantha Gunathilaka,kurunegala,2026-06-06,23:00,Venue_5,505,150
+E0006,"['A0006', 'A0010']",Concert of Sanuka Wickramasinghe,colombo,2026-07-07,18:00,Venue_6,506,160
+E0007,"['A0007', 'A0025', 'A0018']",Concert of Sunil Perera,galle,2026-08-08,19:00,Venue_7,507,170
+E0008,"['A0008', 'A0018']",Concert of Stanley Perera,kandy,2026-09-09,20:00,Venue_8,508,180
+E0009,"['A0009', 'A0027']",Concert of Costa,jaffna,2026-10-10,21:00,Venue_9,509,190
+E0010,['A0010'],Concert of Nalin Perera,matara,2026-11-11,22:00,Venue_10,510,200
+E0011,['A0011'],Concert of Bommi & Oru Nila,kurunegala,2026-12-12,23:00,Venue_11,511,210
+E0012,"['A0012', 'A0027']",Concert of Chitrasena,colombo,2026-01-13,18:00,Venue_12,512,220
+E0013,['A0013'],Concert of Vajira Chitrasena,galle,2026-02-14,19:00,Venue_13,513,230
+E0014,['A0014'],Concert of Upeka Wijayawardhane,kandy,2026-03-15,20:00,Venue_14,514,240
+E0015,"['A0015', 'A0005']",Concert of Asanga Abeygunasekera,jaffna,2026-04-16,21:00,Venue_15,515,250
+E0016,['A0016'],Concert of Lester James Peries,matara,2026-05-17,22:00,Venue_16,516,260
+E0017,"['A0017', 'A0012', 'A0018']",Concert of Jackson Anthony,kurunegala,2026-06-18,23:00,Venue_17,517,270
+E0018,['A0018'],Concert of Tissa Jata Abeysekera,colombo,2026-07-19,18:00,Venue_18,518,280
+E0019,"['A0019', 'A0000']",Concert of Sumitra Peries,galle,2026-08-20,19:00,Venue_19,519,290
+E0020,"['A0020', 'A0025']",Concert of Jude Channapriya,kandy,2026-09-21,20:00,Venue_20,520,300
+E0021,"['A0021', 'A0015']",Concert of Ediriweera Sarachchandra,jaffna,2026-10-22,21:00,Venue_21,521,310
+E0022,"['A0022', 'A0002']",Concert of Ananda Abeysinghe,matara,2026-11-23,22:00,Venue_22,522,320
+E0023,['A0023'],Concert of Tissa Jayakody,kurunegala,2026-12-24,23:00,Venue_23,523,330
+E0024,['A0024'],Concert of Ranjith Jayakody,colombo,2026-01-25,18:00,Venue_24,524,340
+E0025,"['A0025', 'A0007', 'A0003']",Concert of Iraj Weeraratne,galle,2026-02-26,19:00,Venue_25,525,350
+E0026,"['A0026', 'A0011', 'A0004']",Concert of Swarnalatha,kandy,2026-03-27,20:00,Venue_26,526,360
+E0027,"['A0027', 'A0023']",Concert of T.M. Jayaratne,jaffna,2026-04-28,21:00,Venue_27,527,370
+E0028,"['A0000', 'A0007']",Concert of W.D. Amaradeva,matara,2026-05-01,22:00,Venue_28,528,380
+E0029,"['A0001', 'A0005', 'A0020']",Concert of Nanda Malini,kurunegala,2026-06-02,23:00,Venue_29,529,390
+E0030,"['A0002', 'A0001']",Concert of Victor Ratnayake,colombo,2026-07-03,18:00,Venue_30,530,400
+E0031,"['A0003', 'A0011']",Concert of Yohani,galle,2026-08-04,19:00,Venue_31,531,410
+E0032,"['A0004', 'A0012']",Concert of Bathiya & Santhush,kandy,2026-09-05,20:00,Venue_32,532,420
+E0033,"['A0005', 'A0026']",Concert of Rookantha Gunathilaka,jaffna,2026-10-06,21:00,Venue_33,533,430
+E0034,"['A0006', 'A0010']",Concert of Sanuka Wickramasinghe,matara,2026-11-07,22:00,Venue_34,534,440
+E0035,['A0007'],Concert of Sunil Perera,kurunegala,2026-12-08,23:00,Venue_35,535,450
+E0036,['A0008'],Concert of Stanley Perera,colombo,2026-01-09,18:00,Venue_36,536,460
+E0037,['A0009'],Concert of Costa,galle,2026-02-10,19:00,Venue_37,537,470
+E0038,"['A0010', 'A0023']",Concert of Nalin Perera,kandy,2026-03-11,20:00,Venue_38,538,480
+E0039,"['A0011', 'A0024', 'A0004']",Concert of Bommi & Oru Nila,jaffna,2026-04-12,21:00,Venue_39,539,490
+E0040,['A0012'],Concert of Chitrasena,matara,2026-05-13,22:00,Venue_40,540,500
+E0041,"['A0013', 'A0015']",Concert of Vajira Chitrasena,kurunegala,2026-06-14,23:00,Venue_41,541,510
+E0042,['A0014'],Concert of Upeka Wijayawardhane,colombo,2026-07-15,18:00,Venue_42,542,520
+E0043,['A0015'],Concert of Asanga Abeygunasekera,galle,2026-08-16,19:00,Venue_43,543,530
+E0044,['A0016'],Concert of Lester James Peries,kandy,2026-09-17,20:00,Venue_44,544,540
+E0045,['A0017'],Concert of Jackson Anthony,jaffna,2026-10-18,21:00,Venue_45,545,550
+E0046,['A0018'],Concert of Tissa Jata Abeysekera,matara,2026-11-19,22:00,Venue_46,546,560
+E0047,"['A0019', 'A0017', 'A0003']",Concert of Sumitra Peries,kurunegala,2026-12-20,23:00,Venue_47,547,570
+E0048,"['A0020', 'A0027', 'A0016']",Concert of Jude Channapriya,colombo,2026-01-21,18:00,Venue_48,548,580
+E0049,['A0021'],Concert of Ediriweera Sarachchandra,galle,2026-02-22,19:00,Venue_49,549,590
+E0050,['A0022'],Concert of Ananda Abeysinghe,kandy,2026-03-23,20:00,Venue_50,550,600
+E0051,['A0023'],Concert of Tissa Jayakody,jaffna,2026-04-24,21:00,Venue_51,551,610
+E0052,['A0024'],Concert of Ranjith Jayakody,matara,2026-05-25,22:00,Venue_52,552,620
+E0053,['A0025'],Concert of Iraj Weeraratne,kurunegala,2026-06-26,23:00,Venue_53,553,630
+E0054,"['A0026', 'A0020', 'A0023']",Concert of Swarnalatha,colombo,2026-07-27,18:00,Venue_54,554,640
+E0055,"['A0027', 'A0017']",Concert of T.M. Jayaratne,galle,2026-08-28,19:00,Venue_55,555,650
+E0056,"['A0000', 'A0012']",Concert of W.D. Amaradeva,kandy,2026-09-01,20:00,Venue_56,556,660
+E0057,['A0001'],Concert of Nanda Malini,jaffna,2026-10-02,21:00,Venue_57,557,670
+E0058,"['A0002', 'A0014']",Concert of Victor Ratnayake,matara,2026-11-03,22:00,Venue_58,558,680
+E0059,"['A0003', 'A0005']",Concert of Yohani,kurunegala,2026-12-04,23:00,Venue_59,559,690
+E0060,"['A0004', 'A0010']",Concert of Bathiya & Santhush,colombo,2026-01-05,18:00,Venue_60,560,700
+E0061,['A0005'],Concert of Rookantha Gunathilaka,galle,2026-02-06,19:00,Venue_61,561,710
+E0062,"['A0006', 'A0014']",Concert of Sanuka Wickramasinghe,kandy,2026-03-07,20:00,Venue_62,562,720
+E0063,['A0007'],Concert of Sunil Perera,jaffna,2026-04-08,21:00,Venue_63,563,730
+E0064,['A0008'],Concert of Stanley Perera,matara,2026-05-09,22:00,Venue_64,564,740
+E0065,['A0009'],Concert of Costa,kurunegala,2026-06-10,23:00,Venue_65,565,750
+E0066,['A0010'],Concert of Nalin Perera,colombo,2026-07-11,18:00,Venue_66,566,760
+E0067,"['A0011', 'A0009', 'A0002']",Concert of Bommi & Oru Nila,galle,2026-08-12,19:00,Venue_67,567,770
+E0068,"['A0012', 'A0002']",Concert of Chitrasena,kandy,2026-09-13,20:00,Venue_68,568,780
+E0069,['A0013'],Concert of Vajira Chitrasena,jaffna,2026-10-14,21:00,Venue_69,569,790
+E0070,"['A0014', 'A0011']",Concert of Upeka Wijayawardhane,matara,2026-11-15,22:00,Venue_70,570,800
+E0071,['A0015'],Concert of Asanga Abeygunasekera,kurunegala,2026-12-16,23:00,Venue_71,571,810
+E0072,['A0016'],Concert of Lester James Peries,colombo,2026-01-17,18:00,Venue_72,572,820
+E0073,"['A0017', 'A0002', 'A0003']",Concert of Jackson Anthony,galle,2026-02-18,19:00,Venue_73,573,830
+E0074,"['A0018', 'A0007', 'A0016']",Concert of Tissa Jata Abeysekera,kandy,2026-03-19,20:00,Venue_74,574,840
+E0075,"['A0019', 'A0012']",Concert of Sumitra Peries,jaffna,2026-04-20,21:00,Venue_75,575,850
+E0076,"['A0020', 'A0001']",Concert of Jude Channapriya,matara,2026-05-21,22:00,Venue_76,576,860
+E0077,['A0021'],Concert of Ediriweera Sarachchandra,kurunegala,2026-06-22,23:00,Venue_77,577,870
+E0078,"['A0022', 'A0026', 'A0006']",Concert of Ananda Abeysinghe,colombo,2026-07-23,18:00,Venue_78,578,880
+E0079,['A0023'],Concert of Tissa Jayakody,galle,2026-08-24,19:00,Venue_79,579,890
